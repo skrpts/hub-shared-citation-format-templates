@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "c554a444-8b2d-4472-aa36-77d542f08941"
+name: "citation-format-templates"
+display_name: "Citation Format Templates"
+description: "Quick-reference templates for common citation formats across styles"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-citation-format-templates"
+category: "shared"
+tags:
+  - "shared"
+  - "asset"
+contents:
+  skills: 0
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 1
+  total: 1
