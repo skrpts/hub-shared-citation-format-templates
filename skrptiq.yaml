@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "c554a444-8b2d-4472-aa36-77d542f08941"
+id: "efbfafb3-52d9-4e05-9015-98a1a50ad80a"
 name: "citation-format-templates"
 display_name: "Citation Format Templates"
 description: "Quick-reference templates for common citation formats across styles"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
