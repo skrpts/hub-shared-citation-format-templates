@@ -3,7 +3,7 @@ id: "efbfafb3-52d9-4e05-9015-98a1a50ad80a"
 name: "citation-format-templates"
 display_name: "Citation Format Templates"
 description: "Quick-reference templates for common citation formats across styles"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "asset"
+dependencies: []
+
 contents:
   skills: 0
   prompts: 0
